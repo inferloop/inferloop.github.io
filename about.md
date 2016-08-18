@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Inferloop is a startup focussed on delivering solutions for precision healthcare using machine learning and heterogeneous data sources.
+Inferloop is a machine learning startup focussed on delivering solutions for precision healthcare.
 
 ### More Information
 
