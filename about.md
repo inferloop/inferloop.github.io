@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Inferloop is a startup focussed on delivering solutions for precision healthcare using machine learning and heterogeneous data sources.
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+More coming soon. But in the mean time, please contact us at the email below. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[info@inferloop.com](mailto:info@inferloop.com)
