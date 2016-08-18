@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2016-08-15 08:49:07 -0700
+categories: general
+---
+
+Thanks for visiting and welcome! Inferloop is a startup, whose mission is to *deliver precision healthcare to improve outcomes for all*. 
+
+ By saying improving outcomes for all, we refer to the patient (the real paying customer!), the provider system and the payer (Medicare and other private insurance companies). As a system, U.S. healthcare costs are growing faster than the nation's Gross Domestic Product (GDP)... a healthy 5.3 percent in 2014!  As a share of the nation's Gross Domestic Product, health spending accounted for [17.5 percent](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsHistorical.html). Obviously this is unsustainable and to make matters worse it doesn't necessarily mean patients are getting better care. This is a very important problem and it deserves all the attention it is getting and probably then some! 
+
+Precision healthcare is care that is tailored to each unique individual in order to achieve the best outcome for that individual. We  believe this is the best way to improve quality and efficiency of care.
+
+This blog/website aims to cover several topics related to this general theme. 
