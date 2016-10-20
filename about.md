@@ -32,7 +32,7 @@ In order to achieve our mission, we need to be at the cutting-edge of research i
 3. Extracting useful information from **unstructured data**
     - How can the text data (clinical notes) be used to improve model accuracy? 
     - How can image data (scans) be used?
-    - How can all of this be done with added contraints of Security and Privacy?
+    - How can all of this be done with added constraints of Security and Privacy?
 
 4. **Personalization** of medical treatments
     - Recommendation engines have been used successfully for personalized recommendation of videos, articles, etc. Can we apply similar technology to medical treatments? 
